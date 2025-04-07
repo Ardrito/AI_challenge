@@ -1,0 +1,6 @@
+data/dataset/test/goes/*
+data/dataset/test/goes_old/
+data/dataset/test/omni2/*
+STORM-AI-devkit-2025/
+input_data/*
+test_env/
