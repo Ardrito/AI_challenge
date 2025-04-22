@@ -5,3 +5,9 @@ STORM-AI-devkit-2025/
 #input_data/*
 test_env/
 data/processed
+requirements/
+checkpoints/
+.gitignore
+checkpointsOld*
+checkpointsLast
+data/new_processed
